@@ -379,3 +379,18 @@ MigrationBackup/
 
 # Fody
 FodyWeavers.xsd
+
+# ==============================
+# Unity WebGL for GitHub Pages
+# ==============================
+
+# Keep WebGL entry page
+!index.html
+
+# Keep WebGL runtime files
+!Build/
+!Build/**
+
+# Keep Unity WebGL template assets
+!TemplateData/
+!TemplateData/**
