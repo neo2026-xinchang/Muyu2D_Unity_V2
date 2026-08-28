@@ -1,0 +1,1 @@
+把 muyu.wav 或 muyu.mp3 放这里，然后拖到 Muyu 对象的 AudioSource -> AudioClip。
